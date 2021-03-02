@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Jurre. I'm an ambitious developer, Computer Science student, and content creator from The Netherlands 🇳🇱. 
+I'm Jurre: an ambitious developer, Computer Science student, and content creator from The Netherlands 🇳🇱. 
 
 I mostly work in Java. Here are all the programming/scripting languages that I am familiar with:
 - HTML5, CSS3 (incl. Bootstrap, SCSS, SASS)
