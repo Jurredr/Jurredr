@@ -13,9 +13,9 @@ I mostly work in Java. Here are all the programming/scripting languages that I a
 - SQL
 
 ### Now have some epic stats, because who doesn't love stats? 😉
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jurredr/Jurredr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
