@@ -2,7 +2,7 @@
 
 I'm Jurre: an ambitious developer, Computer Science student, and content creator from The Netherlands 🇳🇱. 
 
-I mostly work in Java. Here are all the programming/scripting languages that I am familiar with:
+I mostly work in Java. Here are some programming/scripting languages that I am familiar with:
 - HTML5, CSS3 (incl. Bootstrap, SCSS, SASS)
 - JavaScript (incl. JSON)
 - Java
