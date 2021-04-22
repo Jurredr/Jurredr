@@ -1,6 +1,6 @@
-### Hi there! 👋
+<h1 align="center">Hi 👋, I'm Jurre</h1>
 
-I'm Jurre: an ambitious developer, Computer Science student, and content creator from The Netherlands 🇳🇱. 
+<p align="center">An ambitious developer, Computer Science student, and content creator from The Netherlands 🇳🇱.</p> 
 
 I mostly work in Java. Here are some programming/scripting languages that I am familiar with:
 - HTML5, CSS3 (incl. Bootstrap, SCSS, SASS)
