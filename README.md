@@ -4,13 +4,13 @@
 
 I mostly work in Java. Here are some programming/scripting languages that I am familiar with:
 - HTML5, CSS3 (incl. Bootstrap, SCSS, SASS)
-- JavaScript (incl. )
+- JavaScript (incl. certain frameworks)
 - Java
 - PHP
-- Python
+- Python(3)
 - XML, JSON, YAML
 - Lua
-- SQL
+- SQL (MySQL, PostgreSQL)
 
 ### Now have some epic stats, because who doesn't love stats? 😉
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula)](https://github.com/Jurredr/)
