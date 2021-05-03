@@ -12,10 +12,12 @@ I mostly work in Java. Here are some programming/scripting languages that I am f
 - Lua
 - SQL (MySQL, PostgreSQL)
 
+<div align="center">
 ### Now have some epic stats, because who doesn't love stats? 😉
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula)](https://github.com/Jurredr/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula)](https://github.com/Jurredr/)
+</div>
 
 <!--
 **Jurredr/Jurredr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
