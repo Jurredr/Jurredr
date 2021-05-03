@@ -4,11 +4,11 @@
 
 I mostly work in Java. Here are some programming/scripting languages that I am familiar with:
 - HTML5, CSS3 (incl. Bootstrap, SCSS, SASS)
-- JavaScript (incl. JSON)
+- JavaScript (incl. )
 - Java
 - PHP
 - Python
-- XML
+- XML, JSON, YAML
 - Lua
 - SQL
 
