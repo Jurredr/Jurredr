@@ -2,11 +2,14 @@
 
 <p align="center">An ambitious developer, Computer Science student, and content creator from The Netherlands 🇳🇱.</p> 
 
-<a href="https://github.com/Jurredr/github-widgetbox" align="center">
-  <img align="center" src="https://github-widgetbox.vercel.app/api/skills/?languages=html,css,js,ts,php,mysql,postgres,java,kotlin,python,c,xml,json,yaml,lua,bash&includeNames=true" alt="GitHub WidgetBox" />
-</a>
-  
-### Now have some epic stats, because who doesn't love stats? 😉
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula)](https://github.com/Jurredr/)
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills/?languages=html,css,js,ts,php,mysql,postgres,java,kotlin,python,c,xml,json,yaml,lua,bash&includeNames=true" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula)](https://github.com/Jurredr/)
+<h3 align="center">Now have some epic stats, because who doesn't love stats? 😄</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula" alt="Top languages" />
+</p>
