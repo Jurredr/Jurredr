@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr" alt="GitHub WidgetBox" />
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
 </p>
 
