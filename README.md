@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jurre</h1>
 
-<p align="center">An ambitious developer, Computer Science student, and content creator from The Netherlands 🇳🇱.</p> 
+<p align="center">An ambitious 19 y/o developer, Computer Science student, and content creator from The Netherlands 🇳🇱.</p> 
 <br>
 
 <p align="center">
