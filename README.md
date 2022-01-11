@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/62119716/148912198-6b2a527e-1886-4e1c-bfc8-44c59eee6870.png)
 
 <!-- ### Hi 👋, I'm Jurre -->
-### An ambitious 19 y/o developer, Computer Science student, and content creator from The Netherlands 🇳🇱.
+> An ambitious 19 y/o developer, Computer Science student, and content creator from The Netherlands 🇳🇱.
 
 <br>
 
