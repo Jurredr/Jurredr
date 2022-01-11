@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <img width="43.3%" height="43.3%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula" alt="Top languages" />
 </p>
