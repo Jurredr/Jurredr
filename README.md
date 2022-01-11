@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/62119716/148912198-6b2a527e-1886-4e1c-bfc8-44c59eee6870.png)
 
 <!-- ### Hi 👋, I'm Jurre -->
-> An ambitious 19 y/o developer, Computer Science student, and content creator from The Netherlands 🇳🇱.
+> An ambitious 19 y/o **developer**, Computer Science **student**, and **content creator** from The Netherlands 🇳🇱.
 
 <br>
 
@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
+  <img width="43.3%" height="43.3%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula" alt="Top languages" />
 </p>
