@@ -2,6 +2,9 @@
   <img src="https://user-images.githubusercontent.com/62119716/148912198-6b2a527e-1886-4e1c-bfc8-44c59eee6870.png" alt="Jurre" />
 </a>
 
+<br>
+<br>
+
 <!-- ### Hi 👋, I'm Jurre -->
 > Ambitious 19 y/o **developer**, Computer Science **student**, and **content creator** from The Netherlands 🇳🇱.
 
