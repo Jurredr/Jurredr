@@ -6,7 +6,7 @@
 <br>
 
 <!-- ### Hi 👋, I'm Jurre -->
-> Ambitious 19 y/o **developer**, Computer Science **student**, and **content creator** from The Netherlands 🇳🇱.
+> Ambitious 19 y/o **developer** and Computer Science **student** from The Netherlands 🇳🇱.
 
 <br>
 
