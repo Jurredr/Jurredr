@@ -4,22 +4,21 @@
 
 <br>
 <br>
-
-<!-- ### Hi 👋, I'm Jurre -->
-> Ambitious 19 y/o **developer** and Computer Science **student** from The Netherlands 🇳🇱.
-
-<br>
+<hr>
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=80s_after_dark" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/skills/?names=html,css,sass,js,ts,java,python,php,mysql,postgres,kotlin,c,cpp,json,yaml,xml,lua,bash&includeNames=true" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,c,mysql,postgres,kotlin,haskell,markdown,json,yaml,xml,lua,bash&includeNames=true&theme=80s_after_dark" alt="GitHub WidgetBox" />
+        <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,vue,nuxt,angular,electron,tailwind&tools=git,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,jupyter,gradle&includeNames=true&theme=80s_after_dark" alt="GitHub WidgetBox" />
   </a>
 </p>
 
+<hr>
+
 <p align="center">
-  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=dracula" alt="Top languages" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=nightowl" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=nightowl" alt="Top languages" />
 </p>
