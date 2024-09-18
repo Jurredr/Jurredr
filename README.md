@@ -1,5 +1,5 @@
 <a href="https://jurre.me/">
-  <img src="https://user-images.githubusercontent.com/62119716/204102132-305aa9a0-ffe6-45f7-b884-881ee63930a4.png" alt="Jurre" />
+  <img src="https://github.com/user-attachments/assets/d08a606b-59c7-4c5c-8145-c34acc87bb23" alt="Jurre" />
 </a>
 
 <br>
