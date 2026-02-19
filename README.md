@@ -15,10 +15,3 @@
     <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,ts,java,python,php,c,mysql,postgres,kotlin,haskell,markdown,json,yaml,xml,lua,bash&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
   </a>
 </p>
-
-<hr>
-
-<p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=omni" alt="User stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=omni" alt="Top languages" />
-</p>
